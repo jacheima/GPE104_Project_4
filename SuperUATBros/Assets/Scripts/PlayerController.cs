@@ -48,12 +48,12 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
-            transform.localScale = new Vector3(-0.25f, 0.25f, 0.25f);
+            transform.localScale = new Vector3(-0.2f, 0.2f, 0.2f);
         }
 
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
-            transform.localScale = new Vector3(0.25f, 0.25f, 0.25f);
+            transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
         }
 
 
