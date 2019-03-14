@@ -8,11 +8,10 @@ public class PlayerController : MonoBehaviour
 
     public float Speed = 1f;
     private bool isJumping = false;
-    public float maxJumpTimes = 2;
-    public float jumpHeight = 12f;
+    public float jumpHeight = 5f;
 
     private Rigidbody2D rb;
-    public float someScale = 3;
+    public float theScale = 0.25f;
 
     public Animator anim;
 
@@ -20,7 +19,7 @@ public class PlayerController : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-	    someScale = transform.localScale.x;
+	    theScale = transform.localScale.x;
 	    rb = GetComponent<Rigidbody2D>();
 	    
 
@@ -35,15 +34,31 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space) && isJumping == false)
         {
             rb.AddForce(Vector3.up * jumpHeight, ForceMode2D.Impulse);
+            isJumping = true;
         }
 
-            float velocityX = Input.GetAxis("Horizontal");
-            float velocityY = rb.velocity.y;
+        float velocityX = Input.GetAxis("Horizontal");
+        float velocityY = rb.velocity.y;
 
-            rb.velocity = new Vector2(velocityX * Speed, velocityY);
+        rb.velocity = new Vector2(velocityX * Speed, velocityY);
 
         anim.SetFloat("Speed", Mathf.Abs(velocityX));
-  
+
+        //transform.right = rb.velocity.normalized;
+
+        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
+        {
+            transform.localScale = new Vector3(-0.25f, 0.25f, 0.25f);
+        }
+
+        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
+        {
+            transform.localScale = new Vector3(0.25f, 0.25f, 0.25f);
+        }
+
+
+
+
     }
 
     void OnCollisionEnter2D(Collision2D collision)

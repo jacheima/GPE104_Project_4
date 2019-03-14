@@ -61,11 +61,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Dialogue.cs" />
+    <Compile Include="Assets\Scripts\DialogueManager.cs" />
     <Compile Include="Assets\Scripts\gameManager.cs" />
-    <Compile Include="Assets\Scripts\KeyHandler.cs" />
-    <Compile Include="Assets\Scripts\PickUp.cs" />
-    <Compile Include="Assets\Scripts\PlayDoorAnim.cs" />
+    <Compile Include="Assets\Scripts\NPC.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <None Include="Assets\UI\Spritesheet\redSheet.xml" />
+    <None Include="Assets\UI\license.txt" />
+    <None Include="Assets\UI\Spritesheet\greenSheet.xml" />
+    <None Include="Assets\UI\Spritesheet\blueSheet.xml" />
+    <None Include="Assets\Sprites\Houses\Spritesheet\spritesheet_default.xml" />
+    <None Include="Assets\Sprites\Houses\License.txt" />
+    <None Include="Assets\Sprites\Houses\Spritesheet\spritesheet_retina.xml" />
+    <None Include="Assets\UI\Spritesheet\yellowSheet.xml" />
+    <None Include="Assets\UI\Spritesheet\greySheet.xml" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/jacheima/Desktop/GPE104/Project_04/SuperUATBros/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
