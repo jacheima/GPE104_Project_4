@@ -28,7 +28,13 @@ public class gameManager : MonoBehaviour
 
     public Text coinText;
 
-    
+    public Transform[] checkpoints;
+    private Transform currentCheckpoint;
+    public int currentCheckpointIndex = 0;
+
+
+
+
 
     //Static instance of GameManager which allows it to be accessed by any other script.
     public static gameManager instance = null;
@@ -57,15 +63,25 @@ public class gameManager : MonoBehaviour
     }
 
     // Use this for initialization
-    void Start () {
-        
-        
-	}
+    void Start ()
+    {
+        currentCheckpoint = checkpoints[currentCheckpointIndex];
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+	    if (player.transform.position.x >= checkpoints[0].transform.position.x)
+	    {
+	        currentCheckpointIndex = 1;
+	    }
+	    if (player.transform.position.x >= checkpoints[1].transform.position.x)
+	    {
+	        currentCheckpointIndex = 2;
+	    }
+    }
+
+
 
     public void DecrementEnemyHealth()
     {
@@ -121,6 +137,8 @@ public class gameManager : MonoBehaviour
         
     }
 
+
+
     public void PlayerDeath()
     {
         player.GetComponent<Animator>().SetInteger("pHealth", 0);
@@ -129,9 +147,10 @@ public class gameManager : MonoBehaviour
     }
     public void TeleportToCheckPoint()
     {
+        Debug.Log("Teleport to checkpoint activated");
         player.GetComponent<Animator>().SetInteger("pHealth", 100);
         pHealth = 100;
-        player.transform.position = new Vector3(-40.35f, -1.395f, -0.11f);
+        player.transform.position = new Vector3(currentCheckpoint.transform.position.x, currentCheckpoint.transform.position.y, -.11f);
         heart5.SetActive(true);
         heart4.SetActive(true);
         heart3.SetActive(true);
@@ -144,5 +163,7 @@ public class gameManager : MonoBehaviour
         coins++;
         coinText.text = coins.ToString();
     }
+
+
     
 }
