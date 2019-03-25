@@ -6,14 +6,24 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    public float Speed = 1f;
+    public float Speed = 3f;
     private bool isJumping = false;
-    public float jumpHeight = 5f;
+    public float jumpHeight = 6f;
 
     private Rigidbody2D rb;
     public float theScale = 0.25f;
 
     public Animator anim;
+
+    private bool isAttacking = false;
+
+
+    public Collider2D attackTrigger;
+
+    
+
+    
+    
 
 
 	// Use this for initialization
@@ -21,6 +31,10 @@ public class PlayerController : MonoBehaviour
 	{
 	    theScale = transform.localScale.x;
 	    rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+        attackTrigger.enabled = false;
+
+        
 	    
 
 	}
@@ -29,7 +43,20 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
      
+        if (Input.GetKey(KeyCode.F) && isAttacking == false)
+        {
+            anim.SetBool("isAttacking", true);
+            attackTrigger.enabled = true;
 
+            gameManager.instance.PlayerAttacking();
+
+        }
+        else
+        {
+            anim.SetBool("isAttacking", false);
+            attackTrigger.enabled = false;
+        }
+        
         
         if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space) && isJumping == false)
         {

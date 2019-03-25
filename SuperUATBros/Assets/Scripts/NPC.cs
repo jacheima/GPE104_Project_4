@@ -10,16 +10,20 @@ public class NPC : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        TriggerDialogue();
+
+        dialogueManager.StartDialogue(dialogue);
+
+
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
+       
+        
         dialogueManager.EndDialogue();
+        
+        
     }
 
-    public void TriggerDialogue()
-    {
-        FindObjectOfType<DialogueManager>().StartDialogue(dialogue);
-    }
 }
+ 
