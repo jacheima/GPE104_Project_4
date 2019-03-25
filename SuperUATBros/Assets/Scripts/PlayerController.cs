@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
 
     public float Speed = 3f;
     private bool isJumping = false;
-    public float jumpHeight = 6f;
+    public float jumpHeight = 6.5f;
 
     private Rigidbody2D rb;
     public float theScale = 0.25f;
@@ -58,7 +58,7 @@ public class PlayerController : MonoBehaviour
         }
         
         
-        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space) && isJumping == false)
+        if ((Input.GetKeyDown(KeyCode.W) && isJumping == false) || (Input.GetKeyDown(KeyCode.UpArrow) && isJumping == false) || (Input.GetKeyDown(KeyCode.Space) && isJumping == false))
         {
             rb.AddForce(Vector3.up * jumpHeight, ForceMode2D.Impulse);
             isJumping = true;
