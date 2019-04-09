@@ -32,6 +32,8 @@ public class gameManager : MonoBehaviour
     private Transform currentCheckpoint;
     public int currentCheckpointIndex = 0;
 
+    public AudioClip deathSound;
+    public AudioSource deatheffect;
 
 
 
@@ -66,6 +68,7 @@ public class gameManager : MonoBehaviour
     void Start ()
     {
         currentCheckpoint = checkpoints[currentCheckpointIndex];
+        deatheffect.clip = deathSound;
 
     }
 	
@@ -131,6 +134,7 @@ public class gameManager : MonoBehaviour
         }
         if (pHealth <= 0)
         {
+            deatheffect.clip = deathSound;
             heart1.SetActive(false);
             PlayerDeath();
         }

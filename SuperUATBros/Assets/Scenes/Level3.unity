@@ -168,6 +168,16 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 0.50000024
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -214,6 +224,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -350,6 +370,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -405,6 +435,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -460,6 +500,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -518,6 +568,16 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 0.50000024
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -568,6 +628,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -619,6 +689,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -670,6 +750,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -735,6 +825,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -786,6 +886,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -842,6 +952,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -893,6 +1013,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -948,6 +1078,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -994,6 +1134,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -1215,6 +1365,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1351,6 +1511,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1407,6 +1577,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1462,6 +1642,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -1512,6 +1702,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -1604,7 +1804,7 @@ RectTransform:
   - {fileID: 1701138118}
   - {fileID: 230430267}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1659,6 +1859,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1667,6 +1877,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
     type: 2}
   m_PrefabInternal: {fileID: 408787133}
+--- !u!82 &410984122 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 82175026937202028, guid: 83895de9e3c7ae74a9868bf8bb058cae,
+    type: 2}
+  m_PrefabInternal: {fileID: 1318836346}
 --- !u!1001 &411177271
 Prefab:
   m_ObjectHideFlags: 0
@@ -1715,6 +1930,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1771,6 +1996,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1883,6 +2118,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -1941,6 +2186,16 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 0.50000024
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -1999,6 +2254,16 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 0.50000024
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -2056,6 +2321,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2121,6 +2396,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -2172,6 +2457,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -2308,6 +2603,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -2354,6 +2659,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -2405,6 +2720,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2465,9 +2790,64 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &665308911
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 665308913}
+  - component: {fileID: 665308912}
+  m_Layer: 5
+  m_Name: LoadLevels
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &665308912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 665308911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f617af13e5c51c438d7702d16dc5ac5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!224 &665308913
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 665308911}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.53333336, y: 0.53333336, z: 0.53333336}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 472.37332, y: -338.25598}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &689855401
 Prefab:
   m_ObjectHideFlags: 0
@@ -2516,6 +2896,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2572,6 +2962,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2628,6 +3028,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2646,6 +3056,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
     type: 2}
   m_PrefabInternal: {fileID: 1801749026}
+--- !u!82 &728063530 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 82599642839620822, guid: 720544cb048e46d41beefa2da359a98b,
+    type: 2}
+  m_PrefabInternal: {fileID: 1611974980}
 --- !u!4 &730316066 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
@@ -2792,6 +3207,16 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 0.50000024
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -2843,6 +3268,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2909,6 +3344,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2965,6 +3410,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2978,6 +3433,95 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4951744038001768, guid: f725b95eeb815b64c92421bbcc3b5c8a,
     type: 2}
   m_PrefabInternal: {fileID: 80389611}
+--- !u!1001 &818677700
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 331.10367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -198.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -8.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &827607689
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 331.10367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -198.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -8.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!82 &846381668 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 82476559834523976, guid: aa10899cabcb5da4fb49e0a247033572,
+    type: 2}
+  m_PrefabInternal: {fileID: 818677700}
 --- !u!4 &862825413 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4951744038001768, guid: f725b95eeb815b64c92421bbcc3b5c8a,
@@ -3030,6 +3574,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -3081,6 +3635,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -3133,6 +3697,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -3189,6 +3763,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -3294,6 +3878,21 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 224451959189030764, guid: f2d218176ae330041b41baaeca6267f7,
+        type: 2}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224451959189030764, guid: f2d218176ae330041b41baaeca6267f7,
+        type: 2}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224451959189030764, guid: f2d218176ae330041b41baaeca6267f7,
+        type: 2}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f2d218176ae330041b41baaeca6267f7, type: 2}
   m_IsPrefabAsset: 0
@@ -3350,6 +3949,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -3523,6 +4132,8 @@ MonoBehaviour:
   coinText: {fileID: 502284745}
   checkpoints: []
   currentCheckpointIndex: 0
+  deathSound: {fileID: 8300000, guid: e003c6eda6e99f546a2762e8d2a1e22c, type: 3}
+  deatheffect: {fileID: 846381668}
 --- !u!4 &964328309
 Transform:
   m_ObjectHideFlags: 0
@@ -3534,7 +4145,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &978467762
 GameObject:
@@ -3701,6 +4312,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -3764,6 +4385,16 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 0.50000024
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -3815,6 +4446,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -3912,6 +4553,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -3962,6 +4613,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -4022,6 +4683,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -4068,6 +4739,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -4199,6 +4880,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -4254,6 +4945,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -4380,6 +5081,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -4436,6 +5147,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -4487,6 +5208,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -4532,17 +5263,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4071582931861920, guid: 4ce2cebaf8dc64049add7e95f68b3e10, type: 2}
       propertyPath: m_RootOrder
-      value: 10
+      value: 12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4ce2cebaf8dc64049add7e95f68b3e10, type: 2}
   m_IsPrefabAsset: 0
---- !u!114 &1244537080 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114766701608213486, guid: faf557adb5747a7498bee2fc9a8c09d8,
-    type: 2}
-  m_PrefabInternal: {fileID: 1648625232}
-  m_Script: {fileID: 11500000, guid: f03b4aebaf5a5c7478610d8806b0265e, type: 3}
 --- !u!1001 &1258593498
 Prefab:
   m_ObjectHideFlags: 0
@@ -4591,6 +5316,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -4642,6 +5377,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -4698,6 +5443,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -4749,6 +5504,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -4762,6 +5527,48 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
     type: 2}
   m_PrefabInternal: {fileID: 1633625193}
+--- !u!1001 &1318836346
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 331.10367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -198.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -8.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &1327868749
 GameObject:
   m_ObjectHideFlags: 0
@@ -19503,6 +20310,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -19554,6 +20371,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -19700,6 +20527,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -19763,7 +20600,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1474746911 stripped
 Transform:
@@ -19956,6 +20793,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -20012,6 +20859,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -20068,6 +20925,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -20114,6 +20981,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -21409,6 +22286,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -21470,6 +22357,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -21478,6 +22375,48 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
     type: 2}
   m_PrefabInternal: {fileID: 1608370077}
+--- !u!1001 &1611974980
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 331.10367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -198.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -8.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!4 &1616684982 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
@@ -21531,6 +22470,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -21586,6 +22535,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -21636,6 +22595,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -21684,7 +22653,7 @@ Prefab:
     - target: {fileID: 224474926791532288, guid: faf557adb5747a7498bee2fc9a8c09d8,
         type: 2}
       propertyPath: m_RootOrder
-      value: 11
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 224474926791532288, guid: faf557adb5747a7498bee2fc9a8c09d8,
         type: 2}
@@ -21792,6 +22761,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -21843,6 +22822,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -21909,6 +22898,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -21955,6 +22954,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22005,6 +23014,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22055,6 +23074,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22111,6 +23140,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -22167,6 +23206,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22218,6 +23267,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22274,6 +23333,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -22330,6 +23399,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -22386,6 +23465,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -22441,6 +23530,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22567,6 +23666,16 @@ Prefab:
       propertyPath: m_Name
       value: 1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22622,6 +23731,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22678,6 +23797,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -22786,6 +23915,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -22895,6 +24034,21 @@ Prefab:
         type: 2}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224937306819561398, guid: a08a4199d7ef7bd4d889a9c21b4c2a71,
+        type: 2}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224937306819561398, guid: a08a4199d7ef7bd4d889a9c21b4c2a71,
+        type: 2}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224937306819561398, guid: a08a4199d7ef7bd4d889a9c21b4c2a71,
+        type: 2}
+      propertyPath: m_LocalScale.z
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a08a4199d7ef7bd4d889a9c21b4c2a71, type: 2}
@@ -23088,6 +24242,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -23192,11 +24356,11 @@ Prefab:
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1244537080}
+      objectReference: {fileID: 665308912}
     - target: {fileID: 114971723753940386, guid: 2e773231856439843a7a772fe4bf5a9f,
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: loadLevel
+      value: LevelSelect
       objectReference: {fileID: 0}
     - target: {fileID: 114430931138902130, guid: 2e773231856439843a7a772fe4bf5a9f,
         type: 2}
@@ -23207,6 +24371,21 @@ Prefab:
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: CloseMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 224274271024371656, guid: 2e773231856439843a7a772fe4bf5a9f,
+        type: 2}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224274271024371656, guid: 2e773231856439843a7a772fe4bf5a9f,
+        type: 2}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 224274271024371656, guid: 2e773231856439843a7a772fe4bf5a9f,
+        type: 2}
+      propertyPath: m_LocalScale.z
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e773231856439843a7a772fe4bf5a9f, type: 2}
@@ -23274,6 +24453,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -23334,6 +24523,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -23385,6 +24584,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -23441,6 +24650,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 728063530}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -23496,6 +24715,16 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 410984122}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0

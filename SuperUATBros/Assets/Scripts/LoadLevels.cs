@@ -25,21 +25,22 @@ public class LoadLevels : MonoBehaviour {
     }
     public void LoadLevelThree()
     {
-        SceneManager.LoadScene("Level3");
+        SceneManager.LoadScene("Leve3");
     }
 
-    public void LoadLevelFour()
-    {
-        SceneManager.LoadScene("Level4");
-    }
-
-    public void LoadLevelFive()
-    {
-        SceneManager.LoadScene("Level5");
-    }
 
     public void LoadMainMenu()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+
+    public void LevelSelect()
+    {
+        SceneManager.LoadScene("Level_Select");
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }

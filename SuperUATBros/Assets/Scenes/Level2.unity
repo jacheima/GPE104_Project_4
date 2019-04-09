@@ -383,6 +383,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -439,6 +449,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -495,6 +515,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -667,6 +697,16 @@ Prefab:
       propertyPath: m_Name
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -759,6 +799,16 @@ Prefab:
       propertyPath: m_Name
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -810,6 +860,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -861,6 +921,16 @@ Prefab:
       propertyPath: m_Name
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -917,6 +987,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1107,6 +1187,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1163,6 +1253,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1171,6 +1271,48 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
     type: 2}
   m_PrefabInternal: {fileID: 253089273}
+--- !u!1001 &256548708
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 331.10367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -198.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -8.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427129703175310, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 78761f211d7164b4d92121ef3333effd, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &288361200
 GameObject:
   m_ObjectHideFlags: 0
@@ -1271,11 +1413,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4425260068531786, guid: dccd7bc240cb67c419ff12dc1fb5725a, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 97.77
+      value: -12.08
       objectReference: {fileID: 0}
     - target: {fileID: 4425260068531786, guid: dccd7bc240cb67c419ff12dc1fb5725a, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -3.38
+      value: -2.16
       objectReference: {fileID: 0}
     - target: {fileID: 4425260068531786, guid: dccd7bc240cb67c419ff12dc1fb5725a, type: 2}
       propertyPath: m_LocalPosition.z
@@ -1585,6 +1727,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1641,6 +1793,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1756,6 +1918,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1817,6 +1989,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -1873,6 +2055,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2028,6 +2220,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2084,6 +2286,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2092,6 +2304,53 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
     type: 2}
   m_PrefabInternal: {fileID: 486544193}
+--- !u!1001 &488583360
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 331.10367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -198.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -8.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4923129660152990, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aa10899cabcb5da4fb49e0a247033572, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!82 &488583361 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 82476559834523976, guid: aa10899cabcb5da4fb49e0a247033572,
+    type: 2}
+  m_PrefabInternal: {fileID: 488583360}
 --- !u!1 &495472676
 GameObject:
   m_ObjectHideFlags: 0
@@ -2215,6 +2474,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2271,6 +2540,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2445,6 +2724,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2506,6 +2795,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2562,6 +2861,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2618,6 +2927,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -2626,6 +2945,53 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4717570327290136, guid: 649130a65923e78458bbd80166678f21,
     type: 2}
   m_PrefabInternal: {fileID: 679694273}
+--- !u!1001 &714932416
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 331.10367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -198.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -8.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181475925556320, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 83895de9e3c7ae74a9868bf8bb058cae, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!82 &714932417 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 82175026937202028, guid: 83895de9e3c7ae74a9868bf8bb058cae,
+    type: 2}
+  m_PrefabInternal: {fileID: 714932416}
 --- !u!1 &718226712 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1536438689103964, guid: dccd7bc240cb67c419ff12dc1fb5725a,
@@ -2801,6 +3167,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -2852,6 +3228,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -24355,6 +24741,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -24411,6 +24807,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -24467,6 +24873,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -24523,6 +24939,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -24579,6 +25005,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -24630,6 +25066,16 @@ Prefab:
       propertyPath: m_Name
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -24691,6 +25137,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -24752,6 +25208,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -25104,6 +25570,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -25564,6 +26040,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -25620,6 +26106,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -25676,6 +26172,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -25802,6 +26308,16 @@ Prefab:
       propertyPath: m_Name
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -25928,6 +26444,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -25941,6 +26467,53 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4951744038001768, guid: f725b95eeb815b64c92421bbcc3b5c8a,
     type: 2}
   m_PrefabInternal: {fileID: 1369409273}
+--- !u!1001 &1416674751
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 331.10367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -198.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -8.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532967767667216, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 720544cb048e46d41beefa2da359a98b, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!82 &1416674752 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 82599642839620822, guid: 720544cb048e46d41beefa2da359a98b,
+    type: 2}
+  m_PrefabInternal: {fileID: 1416674751}
 --- !u!1 &1429882090
 GameObject:
   m_ObjectHideFlags: 0
@@ -26186,6 +26759,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -26242,6 +26825,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -26423,6 +27016,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -26587,6 +27190,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -26643,6 +27256,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -26745,6 +27368,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -26801,6 +27434,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -26971,6 +27614,16 @@ Prefab:
       propertyPath: m_Name
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -27022,6 +27675,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -27283,6 +27946,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -27334,6 +28007,16 @@ Prefab:
       propertyPath: m_Name
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -27385,6 +28068,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -27441,6 +28134,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -27496,6 +28199,8 @@ MonoBehaviour:
   - {fileID: 1516368902}
   - {fileID: 2145781914}
   currentCheckpointIndex: 0
+  deathSound: {fileID: 8300000, guid: e003c6eda6e99f546a2762e8d2a1e22c, type: 3}
+  deatheffect: {fileID: 488583361}
 --- !u!4 &1835327448
 Transform:
   m_ObjectHideFlags: 0
@@ -27627,6 +28332,16 @@ Prefab:
       propertyPath: m_Name
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -27683,6 +28398,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -27884,6 +28609,16 @@ Prefab:
       propertyPath: m_Name
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6795c02d5968937498f6a61b89b63016, type: 3}
+    - target: {fileID: 114866009048782680, guid: f725b95eeb815b64c92421bbcc3b5c8a,
+        type: 2}
+      propertyPath: SpikeEffect
+      value: 
+      objectReference: {fileID: 714932417}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f725b95eeb815b64c92421bbcc3b5c8a, type: 2}
   m_IsPrefabAsset: 0
@@ -27935,6 +28670,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -27991,6 +28736,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -28607,6 +29362,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -28721,6 +29486,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -28783,6 +29558,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
@@ -28967,6 +29752,16 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71be8d3ee6eddfc4ca2ece94052e6afd, type: 3}
+    - target: {fileID: 114780365837778140, guid: 649130a65923e78458bbd80166678f21,
+        type: 2}
+      propertyPath: CoinBeep
+      value: 
+      objectReference: {fileID: 1416674752}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649130a65923e78458bbd80166678f21, type: 2}
   m_IsPrefabAsset: 0
